@@ -11,8 +11,7 @@
 <meta name="robots" content="INDEX, Follow" />
 <meta name="language" content="en-us" />
 <meta name="revisit-after" content="2 days"/>
-<link href="css/bootstrap.css" rel="stylesheet" media="screen" type="text/css" />
-<link href="css/bootstrap-theme.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css"  media="screen"/>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
@@ -208,9 +207,7 @@ isFixed = false;
 <!-- Contents that Scroll Spy Menu 1 is spying on -->
 
  <!--about Page--> 
-    <div class="row about" id="about">
-    	<h2  class="blank" id="top"></h2>		
-            	
+    <div class="row about" id="about">            	
         	<div class="about_container ">
             	<div><img src="images/front.jpg" width="100%" height="auto" border="0" class="about_img" /></div>
             <div class="about_container_in ">
@@ -218,21 +215,22 @@ isFixed = false;
                 	<div class="">
                     	<div class="col-lg-6 col-sm-6 col-xs-12 text-center ">
                         		<div class="row about_nav">
-                                	<div class="col-lg-8 col-sm-8 col-xs-12  "><a  href="#">VAASTU FRIENDLY SITE PLAN</a></div>
+                                	<div class="col-lg-8 col-sm-8 col-xs-12  "><a  href="#">MVDA APPROVED SITE PLAN</a></div>
                                    <div class="clearfix"></div>
                                     <div class="col-lg-8 col-sm-8 col-xs-12"><a  href="http://www.ariabuildcon.com/" target="_blank">DEVELOPERS: ARIA BUILDCON</a></div>
                                 </div>
                         </div>
                         <div class="col-lg-6 col-sm-6 col-xs-12 ">
                         	<div class="about_right row">
-                            	<p align="justify">We welcome you to Hare Krishna Dham - an extraordinary spiritual retreat spread over 50 acres in Vrindavan, the holy land of Radhe-Krishna. </p>
-
-<p align="justify">The main gate of this exquisite township opens on the Delhi - Agra National Highway (NH-2), and the property has a front of approx. 1500 ft on NH-2. The proposed 100 ft wide VIP road is coming up right next to this township and goes straight to all the mandirs at Parikrama Marg. The world’s tallest temple (700 ft tall) is coming up 1 km behind this township and is called the Vrindavan Chandrodaya Mandir. It is an effort by ISKCON, and will be ready in the next 3 years. This makes the property’s location much coveted, as it is close to all the mandirs, yet far away from the city’s noise & pollution.</p>
-
-<p align="justify">The township has an awe-inspiring and stunning 120 ft wide road as you enter it’s main gate. This road is lined by 30 ft of lush greenery on both sides, which include 6 ft wide sidewalks and rows of 25 ft tall, imposing tropical palm trees which enrich the landscaping. The entire township will have more than 3600 tall trees which makes it apt for nature lovers seeking calmness and tranquility amidst oxygen-rich air.</p>
-
-<p align="justify">We are inviting Builders and Developers to develop group housing / villas on 1-4 acre plots within this beautifully landscaped township. If you are interested in developing in Vrindavan on a land surrounded by world-class outer development, for which the concerned authorities have passed the relevant plans, and at a Very flexible payment plan, call us today!</p>
-
+                            	<p align="justify">
+                                We welcome you to Hare Krishna Dham - an extraordinary spiritual retreat spread over 50 acres in Vrindavan, the holy land of Radhe-Krishna. 
+                                <br><br>
+                                The main gate of this exquisite township opens on the Delhi - Agra National Highway (NH-2), and the property has a front of approx. 1500 ft on NH-2. The proposed 100 ft wide VIP road is coming up right next to this township and goes straight to all the mandirs at Parikrama Marg. The world’s tallest temple (700 ft tall) is coming up 1 km behind this township and is called the Vrindavan Chandrodaya Mandir. It is an effort by ISKCON, and will be ready in the next 3 years. This makes the property’s location much coveted, as it is close to all the mandirs, yet far away from the city’s noise & pollution.
+                                <br><br>
+                                The township has an awe-inspiring and stunning 120 ft wide road as you enter it’s main gate. This road is lined by 30 ft of lush greenery on both sides, which include 6 ft wide sidewalks and rows of 25 ft tall, imposing tropical palm trees which enrich the landscaping. The entire township will have more than 3600 tall trees which makes it apt for nature lovers seeking calmness and tranquility amidst oxygen-rich air.
+                                <br><br>
+                                We are inviting Builders and Developers to develop group housing / villas on 1-4 acre plots within this beautifully landscaped township. If you are interested in developing in Vrindavan on a land surrounded by world-class outer development, for which the concerned authorities have passed the relevant plans, and at a Very flexible payment plan, call us today!
+                              </p>
                             </div>
                         </div>
                     </div>
@@ -610,39 +608,30 @@ isFixed = false;
                                 <div class="payment">
                                 	<h1>Group Housing Plots</h1>
                                     <ul>
-                                    <li><span>5,000 - 20,000 sq. yard</span>plots available</li>
-                                      <li><span>Rs. 16,000</span>per sq. yard</li>
-                                    	<li><span>10 %</span>- Possession and sale rights</li>
-                                        <li><span>30 %</span>- Registry</li>
-                                        <li>Remaining <span>70 %</span>ﬁnanced through company</li>
-                                        <li>@<span>18 %</span>Interest rate</li>
-                                        <li>Sale Linked Payment Plan for Balance</li>
-                                      
-                                      
-                                        
+                                      <li><span>5,000 - 20,000 sq. yard</span>plots available</li>
+                                      <li><span>Rs. 550</span>per sq. ft (FSI)</li>
+                                    	<li><span>10 %</span>: Construction and Sale rights</li>
+                                      <li><span>30 %</span>: Registry</li>
+                                      <li>Remaining <span>70 %</span>ﬁnanced through company</li>
+                                      <li>Sale Linked Payment Plan for Balance!</li>
                                     </ul>
                                     <div class="clearfix"></div> 
-                                    </div>
                                 </div>
-                                	<div class="col-lg-6 col-sm-6 col-xs-12">
-                                    <div class="payment">
-                                    	<h1>Plots / Villas</h1>	
-                                           <ul>
-                                           <li><span>115, 150, 500,1000 sq. yard</span>plots available</li>
-                                              <li><span>Rs. 18,000</span>per sq. yard</li>
-                                    	<li><span>10 %</span>- Booking amount</li>
-                                        <li><span>15 %</span>-within 30 days </li>
-                                         <li><span>25 %</span>-within 120 days </li>
-                                          <li><span>25 %</span>-within 200 days </li>
-                                          <li><span> Balance 25 %</span>-within 270 days </li>
-                                      
-                                     
-                                        
-                                      
-                                    </ul>
-                                    <div class="clearfix"></div> 
-                                    	</div>
-                                    </div>
+                              </div>
+                              <div class="col-lg-6 col-sm-6 col-xs-12">
+                                <div class="payment">
+                                  <h1>Plots / Villas</h1>	
+                                  <ul>
+                                    <li><span>115, 150, 500, 1000 sq. yard</span>plots available</li>
+                                    <li>Plots : <span>Rs. 15,000</span>per sq. yard</li>
+                                    <li>Flexible payment period : <span>1 month to 1 year</span></li>
+                                    <li>Simplex Villas : <span>Rs. 29 Lac</span>onwards</li>
+                                    <li>Duplex Villas : <span>Rs. 35 Lac</span>onwards</li>
+                                    <li><span>Bulk discounts</span>available! Call today!</li>
+                                  </ul>
+                                  <div class="clearfix"></div> 
+                                </div>
+                              </div>
                        
                         </div>
                         
