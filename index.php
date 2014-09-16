@@ -735,7 +735,7 @@ isFixed = false;
 </div>
  <!-- footer-->  
      <div class="row footer" id="vrindavan">
-     <h2  class="blank"  id="top"></h2>
+      <!--     <h2  class="blank"  id="top"></h2> -->
      	<div class="footer_hd">HARE  KRISHNA  DHAM,  VRINDAVAN</div>
         <div class="container">
         	<div class="row" >
